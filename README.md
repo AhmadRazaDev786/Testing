@@ -8,3 +8,4 @@ Revise Git and GitHub Commands
 5. Just add a blank task
 6. Update README using a new branch in vscode and pushing it
 7. second branch I created locally, now I want to push it using ("git push -u origin second")
+8. create a new branch thrid using "git switch -c thrid"
