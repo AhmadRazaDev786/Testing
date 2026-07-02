@@ -5,3 +5,4 @@ Revise Git and GitHub Commands
 2. Opening the repo locally using git
 3. I opened it in VS Code and changed the readme and pushed it again.
 4. I created a child branch to learn about branches and pull requests.
+5. Just add a blank task
