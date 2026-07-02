@@ -7,3 +7,4 @@ Revise Git and GitHub Commands
 4. I created a child branch to learn about branches and pull requests.
 5. Just add a blank task
 6. Update README using a new branch in vscode and pushing it
+7. second branch I created locally, now I want to push it using ("git push -u origin second")
