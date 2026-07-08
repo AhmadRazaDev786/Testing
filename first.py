@@ -1,3 +1,2 @@
-# Just a simple file for testing
-
-print("Yellow World")
+str = ["act","pots","tops","cat","stop","hat"]
+print(sorted(str))
